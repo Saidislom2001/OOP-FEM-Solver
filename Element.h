@@ -11,6 +11,7 @@ public:
     virtual Eigen::MatrixXd computeStiffnessMatrix() const = 0;
     virtual Eigen::VectorXd computeForceVector() const = 0;
     virtual std::vector<int> getGlobalDOFs() const = 0;
+    virtual std::vector<int> getNodeIDs() const = 0;
 };
 
 class Bar1D : public Element {
@@ -48,3 +49,4 @@ public:
         return { node1->dofs[0], node2->dofs[0] };
     }
 };
+
