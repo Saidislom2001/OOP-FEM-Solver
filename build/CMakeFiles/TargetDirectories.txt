@@ -1,0 +1,3 @@
+/mnt/c/Users/user/Desktop/FEM/FEM-Solver-basic/build/CMakeFiles/fem_solver.dir
+/mnt/c/Users/user/Desktop/FEM/FEM-Solver-basic/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Desktop/FEM/FEM-Solver-basic/build/CMakeFiles/rebuild_cache.dir
